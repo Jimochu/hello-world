@@ -1,10 +1,5 @@
 # Mis notas de la presentacion
 
-
-
-
-
-
 He estado con Pablo
 
 Este es otro párrafo
